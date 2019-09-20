@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooghiefei.trainghiem.top/sitemap.xml
